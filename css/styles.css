@@ -57,7 +57,6 @@ button {
 .nav-email-phone {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
 }
 
 .page-header-container {
@@ -87,9 +86,7 @@ button {
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
-    padding: 188px 0;
     margin-bottom: 48px;
-    margin-top: 188px;
     max-width: 496px;
     margin-left: auto;
     margin-right: auto;
@@ -124,7 +121,6 @@ button {
     letter-spacing: 0.02em;
     line-height: 1.5;
     text-align: left;
-    margin-right: 8px;
 }
 
 .button-order-service {
@@ -173,11 +169,9 @@ button {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    padding: 24px 76px 24px 156px;
     justify-content: flex-start;
     margin-right: 76px;
     display: inline-block;
-    margin-bottom: 16px;
 }
 
 .nav-buttons {
@@ -185,9 +179,7 @@ button {
     font-weight: 500;
     text-decoration: none;
     letter-spacing: 0.02em;
-    margin-top: 24px;
     gap: 40px;
-    margin-bottom: 24px;
     display: block;
     padding-top: 24px;
     padding-bottom: 24px;
@@ -277,19 +269,13 @@ button {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    padding-top: 32px;
     margin-bottom: 8px;
-    margin-left: 65px;
-    margin-right: 65px;
     text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25), 0 4px 4px 0 rgba(0, 0, 0, 0.25);
     text-align: center;
 }
 
 .team-card-positions {
     color: #434455;
-    margin-bottom: 32px;
-    margin-left: 68px;
-    margin-right: 68px;
     text-align: center;
 }
 
@@ -302,8 +288,6 @@ button {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    margin-left: 156px;
-    margin-right: 611px;
 }
 
 .portfolio-items {
@@ -312,7 +296,6 @@ button {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 
@@ -326,11 +309,8 @@ button {
 
 .footer {
     background-color: #2e2f42;
-    width: 1440px;
-    height: 312px;
     padding: 100px 0;
     display: inline-block;
-    margin-bottom: 16px;
 }
 
 .footer-text {
